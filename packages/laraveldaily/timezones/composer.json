@@ -1,0 +1,13 @@
+{
+
+    "name": "laraveldaily/timezones",
+    "description": "demo packeges",
+    "authors": [
+        {
+            "name": "Steve Obrain",
+            "email": "smgayanath@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
